@@ -1,5 +1,5 @@
 /* Unit 7 Reading Text Assignment
-By: Monica Bacatan
+By: Monica 
  */
 
 import java.io.*;
