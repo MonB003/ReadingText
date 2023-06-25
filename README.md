@@ -52,9 +52,10 @@ Configuring the project in IntelliJ:
 Configuring the SDK:
 - In IntelliJ:
   - File > Project Structure > Project Settings > Project
-    - Use SDK 14
+    - Use SDK: 14
+    - Language level: 8 - Lambdas, type annotations etc.
   - File > Project Structure > Project Settings > Modules
-    - Use SDK 14
+    - Use SDK: 14
 
 ### Running the project:
 1. In IntelliJ, open the Main.java file
